@@ -44,3 +44,7 @@ Build Firmware image with ATF:
 Find the bootable firmware image:
 
     ls -lh arm-trusted-firmware/build/a80x0_mcbin/release/flash-image.bin
+
+Clean build tree for next fresh attempt:
+
+    rm -rf build arm-trusted-firmware/build
