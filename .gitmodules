@@ -1,0 +1,18 @@
+[submodule "edk2-platforms"]
+	path = edk2-platforms
+	url = https://github.com/Semihalf/edk2-platforms.git
+[submodule "edk2"]
+	path = edk2
+	url = https://github.com/Semihalf/edk2.git
+[submodule "arm-trusted-firmware"]
+	path = arm-trusted-firmware
+	url = https://github.com/ARM-software/arm-trusted-firmware.git
+[submodule "mv-ddr"]
+	path = mv-ddr
+	url = https://github.com/MarvellEmbeddedProcessors/mv-ddr-marvell.git
+[submodule "binaries-marvell"]
+	path = binaries-marvell
+	url = https://github.com/MarvellEmbeddedProcessors/binaries-marvell.git
+[submodule "edk2-non-osi"]
+	path = edk2-non-osi
+	url = https://github.com/tianocore/edk2-non-osi.git
