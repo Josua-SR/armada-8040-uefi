@@ -3,7 +3,7 @@
 	url = https://github.com/Semihalf/edk2-platforms.git
 [submodule "edk2"]
 	path = edk2
-	url = https://github.com/Semihalf/edk2.git
+	url = https://github.com/Josua-SR/edk2.git
 [submodule "arm-trusted-firmware"]
 	path = arm-trusted-firmware
 	url = https://github.com/ARM-software/arm-trusted-firmware.git
