@@ -15,4 +15,4 @@
 	url = https://github.com/MarvellEmbeddedProcessors/binaries-marvell.git
 [submodule "edk2-non-osi"]
 	path = edk2-non-osi
-	url = https://github.com/tianocore/edk2-non-osi.git
+	url = https://github.com/Josua-SR/edk2-non-osi.git
