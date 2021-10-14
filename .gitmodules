@@ -1,6 +1,6 @@
 [submodule "edk2-platforms"]
 	path = edk2-platforms
-	url = https://github.com/Semihalf/edk2-platforms.git
+	url = https://github.com/Josua-SR/edk2-platforms.git
 [submodule "edk2"]
 	path = edk2
 	url = https://github.com/Josua-SR/edk2.git
